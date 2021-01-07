@@ -18,7 +18,7 @@ function App() {
         }}
       >
         <ReCAPTCHA
-          sitekey='6LfsZiQaAAAAAHtMS431CrVG9xGtS5gZTSxgSUx8'
+          sitekey='6LdybiQaAAAAAEvluqaC6IjnelKM0ptxZhQTFa-6'
           onChange={onChange}
         />
       </div>
